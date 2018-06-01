@@ -21,8 +21,6 @@ SOLVE = 'S'
 QUIT = 'Q'
 
 
-# Define your functions here.
-
 def is_win(puzzle: str, view: str) -> bool:
     """Return True if and only if puzzle is the same as view.
 
